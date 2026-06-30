@@ -1,0 +1,26 @@
+<svg width="32" height="32" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="l"><rect x="0" y="0" width="50" height="100"/></clipPath>
+    <clipPath id="r"><rect x="50" y="0" width="50" height="100"/></clipPath>
+  </defs>
+  <g clip-path="url(#l)" fill="none" stroke="#D97706" stroke-width="2.8">
+    <rect x="35" y="22" width="30" height="56" rx="6"/>
+    <rect x="41" y="14" width="18" height="9" rx="3.5" stroke-width="2.2"/>
+    <rect x="43" y="9" width="14" height="6" rx="3" stroke-width="0" fill="#D97706" opacity="0.35"/>
+  </g>
+  <g clip-path="url(#r)" fill="#D97706">
+    <circle cx="55" cy="25" r="2.4" opacity="0.85"/>
+    <circle cx="64" cy="27" r="1.6" opacity="0.55"/>
+    <circle cx="55" cy="36" r="2.6" opacity="0.78"/>
+    <circle cx="66" cy="37" r="1.4" opacity="0.42"/>
+    <circle cx="55" cy="47" r="2.6" opacity="0.72"/>
+    <circle cx="65" cy="49" r="1.7" opacity="0.46"/>
+    <circle cx="55" cy="58" r="2.4" opacity="0.65"/>
+    <circle cx="64" cy="60" r="1.5" opacity="0.38"/>
+    <circle cx="55" cy="68" r="2.2" opacity="0.55"/>
+    <circle cx="65" cy="69" r="1.3" opacity="0.32"/>
+    <circle cx="55" cy="76" r="2" opacity="0.44"/>
+  </g>
+  <path d="M50 80 Q50 86 50 89" stroke="#D97706" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.55"/>
+  <path d="M50 91 Q47.5 96 50 99 Q52.5 96 50 91Z" fill="#D97706" opacity="0.6"/>
+</svg>
